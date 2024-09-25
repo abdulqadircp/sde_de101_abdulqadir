@@ -1,0 +1,7 @@
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements?
+
+I will look what does the business requirements,by asking question like what decisions they want to made by ustilising the analytics ?
+ once the requirements are cleared I will look for the data that is required to generate the analytics. I will verify the required data is present for analysis or if it is present is it currently accessable or not ?
+
+ If the data is accessable I will make dashboards that will fullfill the business needs.
+ If the data is not accessable I will ask the data engineer to provide me the data.
